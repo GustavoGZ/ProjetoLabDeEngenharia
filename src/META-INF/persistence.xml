@@ -8,9 +8,9 @@
 			<property name="hibernate.show_sql" value="true"/>
 			<property name="hibernate.format_sql" value="true"/>
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
-			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/alunos"/>
-			<property name="javax.persistence.jdbc.user" value="root"/>
-			<property name="javax.persistence.jdbc.password" value="root"/>        	
+			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://sql10.freemysqlhosting.net:3306/sql10209434"/>
+			<property name="javax.persistence.jdbc.user" value="sql10209434"/>
+			<property name="javax.persistence.jdbc.password" value="EeIHF5McdZ"/>        	
           </properties>
 	</persistence-unit>
 </persistence>
